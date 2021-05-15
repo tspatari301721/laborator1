@@ -1,0 +1,20 @@
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\bin\Debug\Butoane.exe.config
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\bin\Debug\Butoane.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\bin\Debug\Butoane.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.csprojAssemblyReference.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.Form1.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.Properties.Resources.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.csproj.GenerateResource.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.csproj.CoreCompileInputs.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje și sisteme contemporane de programe 2\LABORATOARE\1\Butoane\Butoane\obj\Debug\Butoane.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\bin\Debug\Butoane.exe.config
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\bin\Debug\Butoane.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\bin\Debug\Butoane.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\1\Butoane\Butoane\obj\Debug\Butoane.pdb
